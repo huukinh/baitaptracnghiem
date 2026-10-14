@@ -1,0 +1,34 @@
+[
+  {
+    "id": "teacher-1",
+    "fullName": "Thầy Nguyễn Hữu Kính",
+    "schoolName": "Trường Tiểu học Hoài Nhơn Nam",
+    "email": "thaykinh2022@gmail.com",
+    "password": "123",
+    "createdAt": "2026-09-12T05:26:42.480Z"
+  },
+  {
+    "id": "teacher-2",
+    "fullName": "Thầy Nguyễn Hữu Kính",
+    "schoolName": "Trường Tiểu học Hoài Nhơn Nam",
+    "email": "nguyenhuukinh@gmail.com",
+    "password": "123",
+    "createdAt": "2026-09-22T05:26:42.480Z"
+  },
+  {
+    "id": "teacher-3",
+    "fullName": "Cô Trần Thị Mai",
+    "schoolName": "Trường Tiểu học Kim Đồng",
+    "email": "mai.tran@kimdong.edu.vn",
+    "password": "123",
+    "createdAt": "2026-09-27T05:26:42.480Z"
+  },
+  {
+    "id": "teacher-4",
+    "fullName": "Thầy Hoàng Văn Thắng",
+    "schoolName": "Trường Tiểu học Lê Quý Đôn",
+    "email": "thang.hoang@lequydon.edu.vn",
+    "password": "123",
+    "createdAt": "2026-10-02T05:26:42.480Z"
+  }
+]

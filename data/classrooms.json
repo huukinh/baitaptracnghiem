@@ -1,0 +1,38 @@
+[
+  {
+    "id": "class-1",
+    "schoolName": "Trường Tiểu học Hoài Nhơn Nam",
+    "className": "5A1",
+    "grade": "Lớp 5",
+    "teacherName": "Thầy Nguyễn Hữu Kính",
+    "teacherEmail": "thaykinh2022@gmail.com",
+    "createdAt": "2026-10-05T05:26:42.481Z"
+  },
+  {
+    "id": "class-2",
+    "schoolName": "Trường Tiểu học Kim Đồng",
+    "className": "5B",
+    "grade": "Lớp 5",
+    "teacherName": "Cô Trần Thị Mai",
+    "teacherEmail": "mai.tran@kimdong.edu.vn",
+    "createdAt": "2026-10-07T05:26:42.481Z"
+  },
+  {
+    "id": "class-3",
+    "schoolName": "Trường Tiểu học Lê Quý Đôn",
+    "className": "4A",
+    "grade": "Lớp 4",
+    "teacherName": "Thầy Hoàng Văn Thắng",
+    "teacherEmail": "thang.hoang@lequydon.edu.vn",
+    "createdAt": "2026-10-09T05:26:42.481Z"
+  },
+  {
+    "id": "class-4",
+    "schoolName": "Trường Tiểu học Hoài Nhơn Nam",
+    "className": "5A",
+    "grade": "Lớp 5",
+    "teacherName": "Thầy Nguyễn Hữu Kính",
+    "teacherEmail": "nguyenhuukinh@gmail.com",
+    "createdAt": "2026-10-10T05:26:42.481Z"
+  }
+]

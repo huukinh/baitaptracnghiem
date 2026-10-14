@@ -1,0 +1,8 @@
+{
+  "name": "Remix Bài tập trắc nghiệm tiểu học",
+  "description": "Ứng dụng tạo và làm bài tập trắc nghiệm thông minh cho học sinh Tiểu học từ PDF, Word, hình ảnh với đầy đủ các dạng trắc nghiệm và xuất file in ấn A4 chuẩn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
